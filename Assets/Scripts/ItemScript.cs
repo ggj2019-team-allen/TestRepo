@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class ItemScript : MonoBehaviour
 {
+    GameObject owner;
+    int charge;
+
     // Start is called before the first frame update
     void Start()
     {
