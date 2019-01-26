@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class ItemScript : MonoBehaviour
 {
+
+    int counter;
+
+
     // Start is called before the first frame update
     void Start()
     {
